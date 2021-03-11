@@ -9,7 +9,7 @@ const Hello = () => (
 
     <article>
       <h1>Hello there</h1>
-      <Image src="/post/hello-thare/aranha.jpg" width={640} height={427} />
+      <Image src="/post/hello-there/aranha.jpg" width={640} height={427} />
       <p>
         Imagem focal do empilhamento de uma pequena aranha (Foto: avier
         Ruperez/Nikon Small World)
