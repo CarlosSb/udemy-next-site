@@ -21,3 +21,14 @@ a {
 * {
   box-sizing: border-box;
 }
+
+main {
+  max-width: 1080px;
+  margin: 0 auto;
+}
+
+article {
+  max-width: 1080px;
+  margin: 0 auto;
+}
+

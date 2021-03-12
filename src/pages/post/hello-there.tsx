@@ -1,3 +1,4 @@
+import Navigation from "@components/Navigation";
 import Head from "next/head";
 import Image from "next/image";
 const Hello = () => (
@@ -6,8 +7,8 @@ const Hello = () => (
       <title>Hello there :: My Blog</title>
       <meta property="og:title" content="Hello there :: My Blog" />
     </Head>
-
     <article>
+      <Navigation />
       <h1>Hello there</h1>
       <Image src="/post/hello-there/aranha.jpg" width={640} height={427} />
       <p>
